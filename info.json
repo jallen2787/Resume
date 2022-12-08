@@ -1,0 +1,28 @@
+{
+    "name": "Jimy Allen",
+    "website": "https://jallen221924.com",
+    "linkedin": "https://www.linkedin.com/in/jallen2787/",
+    "github": "jallen2787",
+    "email": "jallen221924@gmail.com",
+    "resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal",
+        "C++",
+        "Java"
+    ],
+    "otherSkills": [
+        "Weapons Master",
+        "Raise Funds",
+        "Walk Long Distances"
+    ]
+}
